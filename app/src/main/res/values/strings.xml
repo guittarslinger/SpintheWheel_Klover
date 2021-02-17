@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spin the Wheel</string>
+    <string name="spin_the_wheel">Spin the Wheel</string>
+    <string name="super_fandibulous_ultra_awesome_wheel_spinny_game">Super Fandibulous Ultra Awesome Wheel Spinny Game</string>
+    <string name="game_wheel">Game Wheel</string>
+    <string name="wheel_ticker">Wheel Ticker</string>
+    <string name="error">Error: Spin Failed! You shouldn\'t play gambling games!</string>
+</resources>

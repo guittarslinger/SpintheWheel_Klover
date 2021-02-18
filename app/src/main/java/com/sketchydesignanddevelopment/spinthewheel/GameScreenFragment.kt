@@ -48,7 +48,7 @@ class GameScreenFragment: Fragment() {
         spinButton = activity!!.findViewById(R.id.spinButton)
         spinButton.setOnClickListener{
             startAnimation()
-            spinWheel("http://mockbin.org/bin/539dc092-8367-414a-8892-ed3b2d666dbe")
+            spinWheel("https://mockbin.org/bin/539dc092-8367-414a-8892-ed3b2d666dbe")
         }
     }
 
